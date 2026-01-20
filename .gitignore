@@ -1,0 +1,20 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# Database (Your personal data)
+shiftlog.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Flask/Local environment variables
+.env
+.flaskenv
