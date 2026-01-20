@@ -129,3 +129,6 @@ SECRET_KEY = "shift77"
 
 To reset the application or clear all data, delete the `shiftlog.db` file. The application will initialize a new, empty database upon the next restart.
 
+![App Screenshot](assets/view.png)
+![App Screenshot](assets/user-input.png)
+
